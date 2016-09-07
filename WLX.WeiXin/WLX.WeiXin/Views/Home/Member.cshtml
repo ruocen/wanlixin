@@ -1,0 +1,65 @@
+﻿
+@model WLX.WeiXin.Models.h_CustomerNew
+@section head
+{
+    <link href="~/Content/css/user.min.css" rel="stylesheet" />
+}
+<div class="box">
+    <div id="header_er">
+        <div class="ehome"></div>
+        <div class="eme"></div>
+        <div class="eloginbar">@*<img src="http://11.mydrivers.com/m/images/v2/icon.png" width="20" height="22">*@</div>
+    </div>
+    <div class="id_box user_bg">
+        <a href="/Home/IntegralList"><img src="~/imgs/m60.png" width="120" height="120" /><span class="name" id="name"></span></a>
+    </div>
+    <div class="id_jf">
+        <ul>
+            <li>我的积分<a href="/Home/IntegralList" class="t1"><span id="integraltotal">0</span></a></li>
+            <li>当前折扣<span id="discount">0</span></li>
+        </ul>
+    </div>
+    <div class="userlist">
+        <ul>
+            <li class="user_bg"><a href="/Order/Index" class="t1">我的订单</a></li>
+            <li class="user_bg" id="mycomments"><a href="#" class="t2">我的抵用券</a></li>
+            <li class="user_bg"><a href="#" class="t3">我的新款</a></li>
+            <li class="user_bg"><a href="#" class="t4">我的充值</a></li>
+        </ul>
+    </div>
+</div>
+<script>
+    $(function () {
+        var url = getWebApiUrl() + "/api/WlxApi/GetCustomerNewBySql";
+        $.ajax({
+            type: 'get',
+            url: url,
+            dataType: "JSON",
+            data: { "vipNum": @ViewBag.vipNum },
+            //data: { "vipNum": 18850223327 },
+            success: function (result) {
+                var obj = eval("(" + result + ")");
+                //data =(new Function("","return "+obj))();
+                $("#name").html(obj.c_Name)
+                if (!empty(obj.c_Identity)) {
+                    var url1=getWebApiUrl() + "/api/WlxApi/GetIntegralSumBySql";
+                    $.ajax({
+                        type: 'get',
+                        url: url1,
+                        dataType: "JSON",
+                        data: { "vipId": obj.c_Identity },
+                        success: function (result1) {
+                            var obj1 = eval("(" + result1 + ")");
+                            data1 = (new Function("", "return " + obj1))();
+                            if (data1.length > 0) {
+                                $("#integraltotal").html(data1[0].total);
+                                $("#discount").html(data1[0].DisCount);
+                            }
+                        }
+                    });
+                }
+            }
+        });
+    });
+</script>
+

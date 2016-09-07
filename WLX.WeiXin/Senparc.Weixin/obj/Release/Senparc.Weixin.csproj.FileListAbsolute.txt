@@ -1,0 +1,11 @@
+G:\WeiXin\Senparc.Weixin.MP.BuildOutPut\.net4.5\Senparc.Weixin.XML
+G:\WeiXin\Senparc.Weixin.MP.BuildOutPut\.net4.5\Senparc.Weixin.dll
+G:\WeiXin\Senparc.Weixin.MP.BuildOutPut\.net4.5\Senparc.Weixin.pdb
+G:\WeiXin\WLX.WeiXin\Senparc.Weixin\obj\Release\Senparc.Weixin.dll
+G:\WeiXin\WLX.WeiXin\Senparc.Weixin\obj\Release\Senparc.Weixin.pdb
+F:\WLX.WeiXin20160825\Senparc.Weixin.MP.BuildOutPut\.net4.5\Senparc.Weixin.XML
+F:\WLX.WeiXin20160825\Senparc.Weixin.MP.BuildOutPut\.net4.5\Senparc.Weixin.dll
+F:\WLX.WeiXin20160825\Senparc.Weixin.MP.BuildOutPut\.net4.5\Senparc.Weixin.pdb
+F:\WLX.WeiXin20160825\WLX.WeiXin\Senparc.Weixin\obj\Release\Senparc.Weixin.csprojResolveAssemblyReference.cache
+F:\WLX.WeiXin20160825\WLX.WeiXin\Senparc.Weixin\obj\Release\Senparc.Weixin.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\Senparc.Weixin\obj\Release\Senparc.Weixin.pdb

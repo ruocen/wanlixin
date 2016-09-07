@@ -1,0 +1,77 @@
+﻿@using WLX.WeiXin
+@section head
+{
+    @PageUtil.Import("/css/revenuelist.css")
+}
+
+<div id="chikr-home" class="chikr-wrapper">
+    <header>
+        <div class="chikr-header">
+            <a href="javascript:history.go(-1);" class="chikr-a-back"><span><返回</span></a>
+            <h2>我的积分流水</h2>
+        </div>
+    </header>
+    <article>
+        <div  id="chikr-news-list">
+
+        </div>
+    </article>
+</div>
+
+<script>
+    $(function () {
+        loadIntegraList();
+    });
+
+    //加载积分列表
+    function loadIntegraList() {
+        var url = getWebApiUrl() + "/api/WlxApi/GetIntegralInBySql";
+        $.ajax({
+            type: 'get',
+            url: url,
+            dataType: "JSON",
+            data: { "vipid": "@ViewBag.c_Identity" },
+            //data: { "vipid": 5002740 },
+            success: function (result) {
+                var obj = eval("(" + result + ")");
+                data = (new Function("", "return " + obj))();
+                var tbody = "";
+                if (data.length > 0) {
+                    tbody += "<ul class='chikr-news-list'>";
+                    $.each(data, function (i, n) {
+                        tbody += "<li><a href='javascript:;'>";
+                        tbody += "<div class='chikr-nl-img'>";
+                        if (parseInt(n.i_Integral) > 0) {
+                            tbody += "<img src='/imgs/gold-exchange/wechat-wallet.png' alt=''></div>";
+                        }
+                        else {
+                            tbody += "<img src='/imgs/gold-exchange/gold-exchange.png' alt=''></div>";
+                        }
+                        tbody += "<div class='chikr-nl-txt'>";
+                        if (parseInt(n.i_Integral) > 0) {
+                            tbody += "<h2>收益</h2>";
+                        }
+                        else {
+                            tbody += "<h2>兑换</h2>";
+                        }
+                        tbody += "<p style='margin-top:1.5em;'>" + dataTostring(n.i_Date) + "</p>";
+                        tbody += "</div>";
+                        tbody += "<div class='chikr-nl-btn'>";
+                        tbody += "<p><span class='chikr-pg-price'>" + n.i_Integral + "</span></p>";
+                        tbody += "</div>";
+                        tbody += "</a>";
+                        tbody += "</li>";
+                    });
+                    tbody += "<ul>";
+                }
+                $('#chikr-news-list').html(tbody);
+            },
+            error: function (data) {
+                //alert("加载请求错误！");
+            }
+        });
+    }
+</script>
+
+
+

@@ -1,0 +1,450 @@
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll.config
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.InitialCreate.resources
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csproj.GenerateResource.Cache
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll.config
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.InitialCreate.resources
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csproj.GenerateResource.Cache
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddSMSLog.resources
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddUserCheckMobile.resources
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll.config
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.pdb
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Webdiyer.MvcPager.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Newtonsoft.Json.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.pdb
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.xml
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.xml
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.xml
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.xml
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.xml
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.xml
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csprojResolveAssemblyReference.cache
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.InitialCreate.resources
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddSMSLog.resources
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddUserCheckMobile.resources
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csproj.GenerateResource.Cache
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.pdb
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifyUserCheckMobile.resources
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifySMSLog.resources
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.InitialCreate.resources
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddSMSLog.resources
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddUserCheckMobile.resources
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifyUserCheckMobile.resources
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifySMSLog.resources
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csproj.GenerateResource.Cache
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll.config
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.xml
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.xml
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.xml
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csprojResolveAssemblyReference.cache
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.InitialCreate.resources
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddSMSLog.resources
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddUserCheckMobile.resources
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifyUserCheckMobile.resources
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifySMSLog.resources
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csproj.GenerateResource.Cache
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.InitialCreate.resources
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddSMSLog.resources
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddUserCheckMobile.resources
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifyUserCheckMobile.resources
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifySMSLog.resources
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csproj.GenerateResource.Cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.InitialCreate.resources
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddSMSLog.resources
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddUserCheckMobile.resources
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifyUserCheckMobile.resources
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifySMSLog.resources
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csproj.GenerateResource.Cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.InitialCreate.resources
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddSMSLog.resources
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddUserCheckMobile.resources
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifyUserCheckMobile.resources
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifySMSLog.resources
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csproj.GenerateResource.Cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll.config
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csprojResolveAssemblyReference.cache
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.InitialCreate.resources
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddSMSLog.resources
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddUserCheckMobile.resources
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifyUserCheckMobile.resources
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifySMSLog.resources
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csproj.GenerateResource.Cache
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.InitialCreate.resources
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddSMSLog.resources
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddUserCheckMobile.resources
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifyUserCheckMobile.resources
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifySMSLog.resources
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csproj.GenerateResource.Cache
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.InitialCreate.resources
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddSMSLog.resources
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddUserCheckMobile.resources
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifyUserCheckMobile.resources
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifySMSLog.resources
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csproj.GenerateResource.Cache
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.pdb
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll.config
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.pdb
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Webdiyer.MvcPager.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Newtonsoft.Json.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.pdb
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csprojResolveAssemblyReference.cache
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.InitialCreate.resources
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddSMSLog.resources
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddUserCheckMobile.resources
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifyUserCheckMobile.resources
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifySMSLog.resources
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csproj.GenerateResource.Cache
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.pdb
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll.config
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.pdb
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Webdiyer.MvcPager.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Newtonsoft.Json.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.pdb
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.xml
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.xml
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.xml
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Razor.xml
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.xml
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csprojResolveAssemblyReference.cache
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.InitialCreate.resources
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddSMSLog.resources
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddUserCheckMobile.resources
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifyUserCheckMobile.resources
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifySMSLog.resources
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csproj.GenerateResource.Cache
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.pdb
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll.config
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.pdb
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.dll
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.dll
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Webdiyer.MvcPager.dll
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.dll
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Newtonsoft.Json.dll
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.dll
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.dll
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Razor.dll
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.pdb
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.xml
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.xml
+G:\WeiXin\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.xml
+G:\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csprojResolveAssemblyReference.cache
+G:\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.InitialCreate.resources
+G:\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddSMSLog.resources
+G:\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddUserCheckMobile.resources
+G:\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifyUserCheckMobile.resources
+G:\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifySMSLog.resources
+G:\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csproj.GenerateResource.Cache
+G:\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.dll
+G:\WeiXin\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll.config
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Data.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\bin\Debug\WLX.Utils.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\bin\Debug\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.InitialCreate.resources
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddSMSLog.resources
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.AddUserCheckMobile.resources
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifyUserCheckMobile.resources
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.Migrations.ModifySMSLog.resources
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.Data\obj\Debug\WLX.Data.pdb

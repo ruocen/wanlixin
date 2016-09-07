@@ -1,0 +1,74 @@
+﻿@using WLX.WeiXin
+@section head
+    {
+    @PageUtil.Import("/css/OrderDetail.css")
+    @PageUtil.Import("/js/order/order.js")
+    @*@PageUtil.Import("/js/validation.js")*@
+}
+    <div class="chikr-wrapper">
+        <header>
+            <div class="chikr-header">
+                <a href="javascript:history.go(-1);" class="chikr-a-back"><span><返回</span></a>
+                <h2>订单详情</h2>
+            </div>
+        </header>
+        <div class="chikr-orders-detail">
+                <ul>
+                    <li>
+                       <span class="chikr-list-label">单号：</span>
+                       <span class="chikr-list-text">@*ZKchzy1507110001*@@ViewBag.orderId</span>
+                       <span class="chikr-list-shopname" id="c_chxh">厦门旗舰店</span>
+                    </li>
+                    <li>
+                        <span class="shop-chdh">订单详情</span>
+                        <span class="shop-quantity">商品数量</span>
+                        <span class="shop-money">销售价格</span>
+                    </li>
+                </ul>
+        </div>
+
+        <div class="chikr-orders-list chikr-orders-noneborder orderitemlist">
+            <dl>
+                <dd>
+                    <ul class="chikr-pro-list">             
+                    </ul>             
+                </dd>
+            </dl>
+        </div>
+    </div>
+<script>
+    $(function () {
+        loadOrderDetail();
+    });
+
+    //加载订单详情
+    function loadOrderDetail() {
+        var url = getWebApiUrl() + "/api/WlxApi/GetOrderDetail";
+        $.ajax({
+            type: 'get',
+            url: url,
+            dataType: "JSON",
+            data: { "orderNo": "@ViewBag.orderId" },
+            //data: { "orderNo": "ZKchzy1507110001" },
+            success: function (result) {
+                var obj = eval("(" + result + ")");
+                data = (new Function("", "return " + obj))();
+                var tbody = "";
+                if (data.length > 0) {
+                    tbody += "";
+                    $.each(data, function (i, n) {
+                        tbody += "<li>";
+                        tbody += "<p class='chikr-mg-t10 chikr-fw-bold'><span class='shop-chdh-left'>商品名称：" + n.c_name + "</span><span class='shop-money-cprice'>原价："+n.c_cprice+"</span></p>";
+                        tbody += "<p class='chikr-mg-t10 chikr-fw-bold'><span class='shop-chdh-left'>商品编号：" + n.c_num + "</span><span class='shop-quantity-num'>×" + n.c_quantity + "</span><span class='shop-money-discount'>折扣：" + n.c_DisCount + "</span></p>";
+                       tbody += "<p class='chikr-mg-t10 chikr-fw-bold'><em class='emmin'>颜色：" + n.c_color + "&nbsp;&nbsp;</em><em class='emmin'>尺寸:" + n.c_size + "</em><span class='shop-money-cpricevip'>折后价：" + n.c_cpriceVIP + "</span></p>";
+                        tbody += "</li>";
+                    });
+                }
+                $('.chikr-pro-list').html(tbody);
+            },
+            error: function (data) {
+                //alert("加载请求错误！");
+            }
+        });
+    }
+</script>

@@ -1,0 +1,270 @@
+﻿
+@{
+    ViewBag.Title = "领取会员卡";
+}
+@section head
+{
+    @PageUtil.Import("/Content/css/mstyle.css")
+    @PageUtil.Import("/Scripts/jquery-1.10.2.min.js")
+    <link href="~/Scripts/layer/need/layer.css" rel="stylesheet" />
+    <script src="~/Scripts/layer/layer.js"></script>
+}
+<nav class="nav3 p">
+    <strong>注册</strong>
+</nav>
+<section class="form-group" id="inputObj">
+    <form id="touchForm" action="" method="post">
+        <p class="flastHint" id="infoHint"></p>
+        <div class="form-text-login" id="mobile_1">
+            <label>手机号：</label>
+            <input type="text" id="mobile" name="mobile" class="form-text" placeholder="11位大陆手机号" value="">
+            <a href="javascript:void(0);" class="form-text-clear" id="txtPhoneB"><i class="icon icon-clear" id="delB"></i></a>
+        </div>
+        <div class="form-text-login form-text-yzm" id="code_1">
+            <label>验证码：</label>
+            <input type="text" id="code" name="code" class="form-text" placeholder="" value="">
+            <div class="l wi2">
+                <input type="button" id="second" name="second" value="免费获取验证码"/>
+            </div>
+        </div>
+        <div class="btn5" style="margin-top:12px">
+            <input type="button" id="submitBtn" value="注&nbsp;&nbsp;册">
+            @*<a href="/Test/Test">订单发送</a>*@
+        </div>
+    </form>
+</section>
+ <script type="text/javascript">
+
+     $(function () {
+         $("#second").click(function () {
+             sendCode($("#second"));
+         });
+         v = getCookieValue("secondsremained");//获取cookie值
+         if (v > 0) {
+             settime($("#second"));//开始倒计时
+         }
+
+         //注册
+         $("#submitBtn").click(function () {
+             var myreg = /^(((13[0-9]{1})|(15[0-9]{1})|(18[0-9]{1}))+\d{8})$/;
+             if (!myreg.test($("#mobile").val())) {         
+                 alert('请输入有效的手机号码！');
+                 $("#mobile").focus();
+                 return false;
+             }
+             if (empty($("#code").val())) {               
+                 alert("请填写验证码");
+                 $("#code").focus();
+                 return false;
+             }
+             if (v < 0) {               
+                 alert("验证码已过期,请重新获取!");
+                 $("#code").focus();
+                 return false;
+             }
+
+             register();
+            
+         });
+
+     })
+
+     //注册
+     function register() {
+         $.ajax({
+             type: 'POST',
+             url: '/Home/Register',
+             data: { mobile: $("#mobile").val(), code: $("#code").val()},
+             success: function (result) {
+                 if (result.status == 1)
+                     window.location.href = result.url;
+                 else 
+                     alert(result.info);
+             },
+             error: function (e) {
+                 alert(e);
+             }
+         });
+     }
+
+     //发送验证码
+     function sendCode(obj) {
+         var phonenum = $("#mobile").val();
+         var result = isPhoneNum();
+         if (result) {
+             doPostBack('/CheckMobile/SendCheckCode', backFunc1, { "phonenum": phonenum });
+             addCookie("secondsremained", 60, 60);//添加cookie记录,有效时间60s
+             settime(obj);//开始倒计时
+         }
+     }
+     //将手机利用ajax提交到后台的发短信接口
+     function doPostBack(url, backFunc, queryParam) {
+         $.ajax({
+             async: false,
+             cache: false,
+             type: 'POST',
+             url: url,// 请求的action路径
+             //data: { "mobile": queryParam },
+             data: { "mobile": $("#mobile").val() },
+             error: function () {// 请求失败处理函数
+             },
+             success: backFunc
+         });
+     }
+     function backFunc1(data) {
+         alert(data);
+         //var d = $.parseJSON(data);
+         //if (!d.success) {
+         //    alert(d.msg);
+         //} else {//返回验证码
+         //    alert("模拟验证码:" + d.msg);
+         //    $("#code").val(d.msg);
+         //}
+     }
+     //开始倒计时
+     var countdown;
+     function settime(obj) {
+         countdown = getCookieValue("secondsremained");
+         if (countdown == 0) {
+             obj.removeAttr("disabled");
+             obj.val("免费获取验证码");
+             return;
+         } else {
+             obj.attr("disabled", true);
+             obj.val("重新发送(" + countdown + ")");
+             countdown--;
+             editCookie("secondsremained", countdown, countdown + 1);
+         }
+         setTimeout(function () { settime(obj) }, 1000) //每1000毫秒执行一次
+     }
+     //校验手机号是否合法
+     function isPhoneNum() {
+         var phonenum = $("#mobile").val();
+         var myreg = /^(((13[0-9]{1})|(15[0-9]{1})|(18[0-9]{1}))+\d{8})$/;
+         if (!myreg.test(phonenum)) {
+             alert('请输入有效的手机号码！');
+             return false;
+         } else {
+             return true;
+         }
+     }
+
+
+     //发送验证码时添加cookie
+     function addCookie(name, value, expiresHours) {
+         var cookieString = name + "=" + escape(value);
+         //判断是否设置过期时间,0代表关闭浏览器时失效
+         if (expiresHours > 0) {
+             var date = new Date();
+             date.setTime(date.getTime() + expiresHours * 1000);
+             cookieString = cookieString + ";expires=" + date.toUTCString();
+         }
+         document.cookie = cookieString;
+     }
+     //修改cookie的值
+     function editCookie(name, value, expiresHours) {
+         var cookieString = name + "=" + escape(value);
+         if (expiresHours > 0) {
+             var date = new Date();
+             date.setTime(date.getTime() + expiresHours * 1000); //单位是毫秒
+             cookieString = cookieString + ";expires=" + date.toGMTString();
+         }
+         document.cookie = cookieString;
+     }
+     //根据名字获取cookie的值
+     function getCookieValue(name) {
+         var strCookie = document.cookie;
+         var arrCookie = strCookie.split("; ");
+         for (var i = 0; i < arrCookie.length; i++) {
+             var arr = arrCookie[i].split("=");
+             if (arr[0] == name) {
+                 return unescape(arr[1]);
+                 break;
+             } else {
+                 return "";
+                 break;
+             }
+         }
+
+     }
+        //$(function () {
+        //    $("#authCodeBt").click(function () {
+        //        if (empty($("#mobile").val())) {
+        //            alert("手机号码不能为空");
+        //            $("#mobile").focus();
+        //            return false;
+        //        }
+        //        if (!$("#mobile").val().match(/^(((13[0-9]{1})|159|153)+\d{8})$/)) {
+        //            alert("手机号码格式不正确！");
+        //            $("#mobile").focus();
+        //            return false;
+        //        }
+        //        //执行获取验证码的操作
+        //        GetNumber();
+        //        $.ajax({
+        //            type: "POST",
+        //            url: "/CheckMobile/SendCheckCode",
+        //            data: { "mobile": $("#mobile").val() },
+        //            success: function (result) {
+        //                if (result == "1") {
+        //                    alert("验证码已发送至您输入的手机号！有效期10分钟");
+        //                    RemainTime();
+        //                }
+        //                else {
+        //                    alert("验证码获取失败！请重新获取");
+        //                }
+        //            },
+        //            error: function () { alert("error"); }
+        //        });
+        //    });
+        //})
+
+        //var count = 60;
+        //function GetNumber() {
+        //    $("#authCodeBt").attr("disabled", "disabled");
+        //    $("#authCodeBt").val(count + "秒后重新获取")
+        //    count--;
+        //    if (count > 0) {
+        //        setTimeout(GetNumber, 1000);
+        //    }
+        //    else {
+        //        count = 60;
+        //        $("#authCodeBt").val("获取验证码");
+        //        $('#authCodeBt').removeAttr("disabled");
+        //        //$("#authCodeBt").attr("disabled", "");
+        //    }
+        //}
+
+       
+
+        ////获取6位随机验证码
+        //function random() {
+        //    var num = "";
+        //    for (i = 0; i < 6; i++) {
+        //        num = num + Math.floor(Math.random() * 10);
+        //    }
+        //    return num;
+        //}
+        ////验证码有效期倒计时
+        //function RemainTime() {
+        //    var iSecond;
+        //    var sSecond = "", sTime = "";
+        //    if (iTime >= 0) {
+        //        iSecond = parseInt(iTime % 300);
+        //        if (iSecond >= 0) {
+        //            sSecond = iTime + "秒";
+        //        }
+        //        sTime = "<span style='color:darkorange;font-size:13px;'>" + sSecond + "</span>";
+        //        if (iTime == 0) {
+        //            clearTimeout(Account);
+        //            sTime = "<span style='color:red;font-size:12px;'>验证码已过期</span>";
+        //        }
+        //        else {
+        //            Account = setTimeout("RemainTime()", 1000);
+        //        }
+        //        iTime = iTime - 1;
+        //    }
+        //    $("#endtime").html(sTime);
+        //}
+    </script>
+

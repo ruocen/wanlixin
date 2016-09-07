@@ -1,0 +1,81 @@
+.chikr-orders-nav { height:40px; line-height:40px; background-color:rgba(248,248,248,1);position:fixed;left:0;right:0;margin-top:89px; z-index:100;border-bottom:1px #EEE solid; }
+.chikr-orders-nav a { display:inline-block; width:25%; height:40px; line-height:40px; float:left; color:#666; text-align:center}
+.chikr-orders-nav a.chikr-current { border-bottom:4px solid #FF5B62; color:#FF5B62; -webkit-box-sizing:border-box}
+
+.chikr-home-search { margin-top:44px; position:fixed;left:0;right:0; z-index:100; }
+
+.chikr-orders-empty { text-align:center; padding:80px 0 0 0; color:#d2d2d0; }
+.chikr-orders-empty img{ width:100px; padding:0 0 20px 0; }
+
+.chikr-orders-list .order-username {float:right;}
+.chikr-orders-list {border-top:44px #EEE solid; }
+.chikr-orders-list-top {border-top:44px #EEE solid; }
+.chikr-orders-noneborder{ border:none; }
+.chikr-orders-list dl dt { height:22px;  padding:10px 12px; font-size:0.875em; background-color:#f8f8f8}
+.chikr-orders-list .chikr-pro-list li {padding:5px 8px;}
+.chikr-orders-list .chikr-pro-list li h3 span{ width:100%;}
+.chikr-orders-list .chikr-pro-list li h3 span:nth-child(2){ width:30%; text-align:right; }
+.chikr-orders-list .chikr-ol-total { height:40px; line-height:40px; position:relative; background-color:#f8f8f8;font-size:.875em; padding:0 0.5em;}
+.chikr-ol-p { float:right; margin-right:6px; color:#999}
+.chikr-ol-p strong {color:#eb4847}
+.chikr-ol-d { height:24px; line-height:24px; position:absolute; top:7px; float:left; color:#FF5B62;}
+.chikr-ol-btn{ float:right; margin: 0.4em 0.8em 0 0; width: 70px; height: 27px; line-height: 27px; text-align: center; border:1px #000 solid; border-radius: 10px; -webkit-border-radius: 10px; }
+.chikr-ol-b { background: #ffd12f;border:none; height: 30px;line-height:30px; }
+.chikr-ol-bf{float:none;display:inline-block;}
+.chikr-ol-padding{padding:20px 0 8px 0;text-align:center;}
+.chikr-ol-bm{margin-bottom:8px;}
+.chikr-orders-detail {margin-top:40px;}
+.chikr-orders-detail ul { border-bottom: 10px #EEE solid;}
+.chikr-orders-detail ul li { /*display:-webkit-box;*/ padding:0.875em;}
+.chikr-orders-detail ul li .chikr-list-label { -webkit-box-flex:2;/*display:block !important;*/ width:0;font-size:0.85em;}
+.chikr-orders-detail ul li .chikr-list-text { -webkit-box-flex:6;/*display:block !important;*/ width:0;font-size:0.85em;}
+.shop-chdh{font-size:0.85em;width:20%;margin-left:10%}
+.shop-quantity{font-size:0.85em;width:20%;margin-left:20%;}
+.shop-money{float:right;font-size:0.85em;width:20%}
+.chikr-list-shopname{float:right;margin-right:5%;font-size:0.85em;}
+.chikr-orders-express ul { background-color:#fff; border-bottom: 2px #EEE solid;}
+.chikr-orders-express ul li { display:-webkit-box; padding:0.875em;}
+.chikr-orders-express ul li .chikr-list-label { -webkit-box-flex:2;display:block !important; width:0; color:#8e8e8e}
+.chikr-orders-express ul li .chikr-list-text { -webkit-box-flex:6;display:block !important; width:0;}
+.chikr-orders-express div{display:inline-block;  vertical-align: middle; }
+.chikr-orders-express .chikr-order-img{height:70px; width:70px; text-align:center; margin:0.2em 0; overflow:hidden; }
+.chikr-orders-express img{ height:70px;}
+
+.chikr-orders-remark {padding: 0.5em 1em; border-top:15px #EEE solid;}
+.chikr-orders-remark textarea{ height: 150px; margin: 0.5em 0;}
+.chikr-orders-remark a{float:left; width:100%; height:40px;line-height:40px; margin-bottom:10px;text-decoration:none;text-align:center;background:#ff4965;color:#fff;border-radius:10px;-webkit-border-radius:10px}
+
+.chikr-orders-list .chikr-order-total { margin-bottom:3px; }
+.chikr-orders-list .chikr-order-total li { padding:12px; overflow:hidden; position:relative; background-color:#fff;background: url("http://yskj-static.b0.upaiyun.com/img/money_dot.png") no-repeat 5%; }
+.chikr-orders-list .chikr-order-total .chikr-pro-img { width:73px; display:block; position:absolute; top:.75em; left:12px;}
+.chikr-orders-list .chikr-order-total li p {padding:0.2em 0; height:20px;}
+.chikr-orders-list .chikr-order-total li input {width:80px; margin:0 0 0 0.3em; border:1px #EEE solid; height:27px;padding-left:15px;border-radius:8px;-webkit-border-radius:8px;position:relative;}
+.chikr-orders-list .chikr-order-total li a { display:inline-block; margin:0 0 0 0.3em; width:35px; height:26px;line-height:26px; text-align:center;background: -webkit-gradient(linear,center top,center bottom,from(#ffbb0e), to(#ff8400));border:1px solid #ff8706;color:#fff;border-radius:8px;-webkit-border-radius:8px;position:absolute;right:0;}
+.chikr-orders-bold{font-weight:bold;}
+.chikr-orders-border{border:1px #f59040 solid!important;}
+.chikr-orders-list .chikr-order-total .chikr-order-width{width:195px;}
+.chikr-orders-list .chikr-order-total .coin_icon{position:relative;height:30px;}
+.chikr-orders-list .chikr-order-total .coin_icon:before{content:"¥";position:absolute;left:88px;top:9px;z-index:100;}
+
+.chikr-orders-list .chikr-list-label{ padding:0.5em 0 0.5em 0.8em; font-weight:bold; border-bottom:1px #EEE solid; }
+.chikr-btn-cancle { background: #FFF; border: 1px #000 solid;color:#000; }
+.chikr-btn-div{ text-align:center;padding:0.8em; }
+.chikr-orders-express-div{text-align:center; border-bottom:5px #EEE solid; width:100%;}
+#chikr-c-orderdetail .chikr-orders-express ul { border-bottom: 1px #EEE solid; }
+#chikr-c-orderdetail .share_c_list p{ border-bottom:1px #78c464 solid; }
+#chikr-c-orderdetail .chikr-orders-detail div{ padding:0.8em; border-bottom:1px #EEE solid; }
+#chikr-c-orderdetail .chikr-orders-detail ul{ border-bottom:1px #EEE solid;padding:1em 0; }
+#chikr-c-orderdetail .chikr-orders-detail div p:nth-child(1){ font-weight:bold; padding:0.2em 0; }
+#chikr-c-orderdetail .chikr-orders-detail li { padding: 0.2em 0.875em; background:none; }
+#chikr-c-orderdetail  .chikr-orders-list .chikr-order-total li{ background:none; }
+#chikr-c-orderdetail  .chikr-orders-list .chikr-order-total li p{ font-style: inherit; }
+
+.chikr-addr-color{color:#8e8e8e;}
+.chikr-list-icon{position:absolute;top:45%;top:calc(50% - 7px);top:-webkit-calc(50% - 7px);right:0;}
+.chikr-list-address{display:block!important;position:relative;}
+.chikr-list-border{background:url(http://yskj-static.b0.upaiyun.com/img/adress_border.png) repeat-x;height:9px;}
+.chikr-list-border1{background:url(http://yskj-static.b0.upaiyun.com/img/adress_border1.png);}
+.chikr-list-phone{padding-right:15px;float:right;}
+.chikr-border{border-bottom:none!important;}
+
+.btn-sure{width: 47%!important;}

@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Test";
+}
+@section head
+    {
+
+}
+
+<div>
+
+</div>
+<script>
+    $(function () {
+        $.ajax({
+            url: "/api/WlxApi/SendOrderNotice",
+            type: "post",
+            data: {
+                "orderId": "5002738",
+                "num": "2",
+                "price": "100",
+                "vipPrice": "90",
+                "orderTime": "1910-01-01 00:00:00.000",
+                "openid": "o1MJTwmO0wm9apY1tWmQMb4CgIzc",
+                "shopName": "万里信"
+            },
+            success: function (data) {
+                console.log(data);
+            }
+        })
+    })
+
+</script>

@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{964E47A2-F3FB-4FE4-974A-D58851C803C8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WLX.Data</RootNamespace>
+    <AssemblyName>WLX.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Webdiyer.MvcPager">
+      <HintPath>..\..\Libs\Webdiyer.MvcPager.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="DataBase\CommDAL.cs" />
+    <Compile Include="DataBase\SqlHelper.cs" />
+    <Compile Include="EntityContext.cs" />
+    <Compile Include="Enums\CheckMobileStatus.cs" />
+    <Compile Include="Enums\PubEnum.cs" />
+    <Compile Include="Enums\PubEnumCombo.cs" />
+    <Compile Include="Filter\BaseFilter.cs" />
+    <Compile Include="Filter\BasePageFilter.cs" />
+    <Compile Include="Filter\KeywordPageFilter.cs" />
+    <Compile Include="Migrations\201606170653492_InitialCreate.cs" />
+    <Compile Include="Migrations\201606170653492_InitialCreate.Designer.cs">
+      <DependentUpon>201606170653492_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606250834462_AddSMSLog.cs" />
+    <Compile Include="Migrations\201606250834462_AddSMSLog.Designer.cs">
+      <DependentUpon>201606250834462_AddSMSLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606260336324_AddUserCheckMobile.cs" />
+    <Compile Include="Migrations\201606260336324_AddUserCheckMobile.Designer.cs">
+      <DependentUpon>201606260336324_AddUserCheckMobile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606300742280_ModifyUserCheckMobile.cs" />
+    <Compile Include="Migrations\201606300742280_ModifyUserCheckMobile.Designer.cs">
+      <DependentUpon>201606300742280_ModifyUserCheckMobile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606300816403_ModifySMSLog.cs" />
+    <Compile Include="Migrations\201606300816403_ModifySMSLog.Designer.cs">
+      <DependentUpon>201606300816403_ModifySMSLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\SMSLog.cs" />
+    <Compile Include="Models\UserCheckMobile.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201606170653492_InitialCreate.resx">
+      <DependentUpon>201606170653492_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606250834462_AddSMSLog.resx">
+      <DependentUpon>201606250834462_AddSMSLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606260336324_AddUserCheckMobile.resx">
+      <DependentUpon>201606260336324_AddUserCheckMobile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606300742280_ModifyUserCheckMobile.resx">
+      <DependentUpon>201606300742280_ModifyUserCheckMobile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606300816403_ModifySMSLog.resx">
+      <DependentUpon>201606300816403_ModifySMSLog.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WLX.Utils\WLX.Utils.csproj">
+      <Project>{d211b0e8-f6f3-4433-9d48-0d6dff5260bc}</Project>
+      <Name>WLX.Utils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

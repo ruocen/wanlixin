@@ -1,0 +1,317 @@
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll.config
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.csprojResolveAssemblyReference.cache
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll.config
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll.config
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Mvc.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Webdiyer.MvcPager.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Mvc.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.csprojResolveAssemblyReference.cache
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll.config
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Webdiyer.MvcPager.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.pdb
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll.config
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.pdb
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Webdiyer.MvcPager.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Newtonsoft.Json.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.pdb
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.pdb
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.xml
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.xml
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Mvc.xml
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.xml
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.xml
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.xml
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.xml
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.xml
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.Razor.resources.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.Razor.resources.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.resources.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.csprojResolveAssemblyReference.cache
+G:\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.dll
+G:\WeiXin\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.pdb
+G:\WeiXin\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Mvc.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll.config
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.pdb
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\Webdiyer.MvcPager.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\Newtonsoft.Json.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.pdb
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.pdb
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Mvc.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.Razor.resources.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.resources.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.csprojResolveAssemblyReference.cache
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll.config
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\WLX.DAL.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\Webdiyer.MvcPager.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Data.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\WLX.Utils.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\bin\Release\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.DAL\obj\Release\WLX.DAL.pdb

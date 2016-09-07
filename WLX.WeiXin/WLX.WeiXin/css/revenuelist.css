@@ -1,0 +1,35 @@
+.chikr-wrapper .revenue_info { margin-top:44px;border-bottom:15px #EEE solid; }
+.chikr-wrapper .revenue_info .sale-left { width:65%; float:left;}
+.chikr-wrapper .revenue_info .sale-left .chikr-fc-red{ font-size:3em; padding:0 0.2em; }
+.chikr-wrapper .revenue_info .sale-right { width:35%; float:right; margin:0.7em 0; }
+.chikr-wrapper .revenue_info .sale-right .btn{ float: left; height: 35px; width:90%; line-height: 35px; margin:0.3em 0 0 0; text-align: center; background: #fc6845; color: #fff; position: relative; border-radius: 8px; -webkit-border-radius: 8px;}
+.chikr-wrapper .revenue_info .sale-right .btn:nth-child(1){ background: #eb4847; }
+.chikr-wrapper .revenue_info p { padding:0.5em 0.7em; }
+.chikr-wrapper .revenue_info .revenue-info-nav { clear:both; height: 50px; line-height: 20px; border-top: 1px #C3C3C3 solid; margin:0.5em 0 0 0; }
+.chikr-wrapper .revenue_info .revenue-info-nav a{ text-align: center; display: inline-block; width: 32%; margin-top: 5px; border-left: 1px #C3C3C3 solid; color:#666; }
+
+.chikr-news-list li { height:3.5em}
+.chikr-news-list .chikr-nl-btn {width:19%; display:inline; float:right;height:25px;}
+.chikr-news-list .chikr-nl-btn .btn_add {display:block;float:right;width:55px;height:39px;margin-top:8px;font-size:9px;line-height:38px;border-radius: 6px;background-color:#FF5B62;color:#fff;text-align:center;}
+.chikr-news-list h2 { padding:0 0.5em; }
+.chikr-news-list .chikr-nl-txt { width:58%; }
+.chikr-news-list .chikr-nl-txt p { height: 1em;padding:0.3em 0.5em; }
+.chikr-news-list .chikr-nl-btn p { height: 1em; padding:0.5em 0;}
+.chikr-news-list .chikr-pg-price { width: 100px; font-weight:bold; color: #eb4847;}
+
+.btn_wrap .btn{display:inline-block;float:none;}
+.share_list1{width:100%;height:80px;padding-top:50px;}
+
+/*金币记录页面*/
+.icon-gold:before{content: "";position:absolute;margin-left:-28px;bottom:-5px;width:26px;height:25px;background-image:url(../img/gold_dot.png);-webkit-background-size:174px 29px;background-size:174px 29px;background-position:-2px -3px;}
+.icon-gold{position:relative;display:block;font-size:15px;margin-left:20px;padding:15px 20px 0 20px!important;}
+.revenue_info .btn_usegold{display:block;float:right;padding:10px 13%;margin-top:13px;font-size:14px;border-radius: 6px;background-color:#fc6845;color:#fff;text-align:center;}
+.chikr-gold-num{font-size:3.5em; padding:0 0.2em!important;}
+.chikr-pg-gold{font-size:1.5em!important;color:#b6000c!important;padding-top:15px;  display: inline-block;width: 20%;float: right;}
+/*金币记录页面 end*/
+/*折现页面*/
+.orange{color:#e56611!important;}
+.exchange:before{margin-left:10px;bottom:25px;background-position:-60px -3px;}
+.icon-no-gold:before{background-position:-120px -3px;}
+.exchange {text-align:center;margin:0;padding:30px 0 0 0!important;font-size:0.75em;border-left:1px solid #dbdbdb;}
+/*折现页面 end*/

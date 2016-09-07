@@ -1,0 +1,223 @@
+I:\WLXWeiXin\weixinSDK-master\weixinSDK-master\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+I:\WLXWeiXin\weixinSDK-master\weixinSDK-master\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+I:\WLXWeiXin\weixinSDK-master\weixinSDK-master\Deepleo.Weixin.SDK\bin\Debug\System.Net.Http.dll
+I:\WLXWeiXin\weixinSDK-master\weixinSDK-master\Deepleo.Weixin.SDK\bin\Debug\System.Net.Http.xml
+I:\WLXWeiXin\weixinSDK-master\weixinSDK-master\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+I:\WLXWeiXin\weixinSDK-master\weixinSDK-master\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+F:\WLXWeiXin\weixinSDK-master\weixinSDK-master\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+F:\WLXWeiXin\weixinSDK-master\weixinSDK-master\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+F:\WLXWeiXin\weixinSDK-master\weixinSDK-master\Deepleo.Weixin.SDK\bin\Debug\System.Net.Http.dll
+F:\WLXWeiXin\weixinSDK-master\weixinSDK-master\Deepleo.Weixin.SDK\bin\Debug\System.Net.Http.xml
+F:\WLXWeiXin\weixinSDK-master\weixinSDK-master\Deepleo.Weixin.SDK\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+F:\WLXWeiXin\weixinSDK-master\weixinSDK-master\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+F:\WLXWeiXin\weixinSDK-master\weixinSDK-master\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Net.Http.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Net.Http.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+C:\Users\witcare\Desktop\万里信\WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Newtonsoft.Json.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Mvc.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Razor.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Razor.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.pdb
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+I:\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Mvc.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Razor.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\witcare\Desktop\万里信\WeiXin 2016-6-30\WeiXin 2016-6-30\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Mvc.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Razor.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Net.Http.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Newtonsoft.Json.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Mvc.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Razor.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Razor.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.pdb
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Net.Http.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Newtonsoft.Json.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Mvc.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Razor.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Razor.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.pdb
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+F:\WeiXin20160815\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+G:\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+G:\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+G:\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Net.Http.dll
+G:\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.dll
+G:\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Newtonsoft.Json.dll
+G:\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Mvc.dll
+G:\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Razor.dll
+G:\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Razor.dll
+G:\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.dll
+G:\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.pdb
+G:\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+G:\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+G:\WeiXin\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\WLX.Utils.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\Deepleo.Weixin.SDK\bin\Debug\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\Deepleo.Weixin.SDK\obj\Debug\Deepleo.Weixin.SDK.pdb

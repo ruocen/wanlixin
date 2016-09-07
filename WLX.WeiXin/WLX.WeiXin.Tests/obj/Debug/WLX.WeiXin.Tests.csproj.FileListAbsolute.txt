@@ -1,0 +1,932 @@
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.csprojResolveAssemblyReference.cache
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll.config
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Owin.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\log4net.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll.config
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Owin.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\log4net.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.SMS.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.SMS.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\log4net.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\log4net.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\log4net.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll.config
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Owin.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\log4net.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.csprojResolveAssemblyReference.cache
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\log4net.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-1\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\log4net.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.pdb
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\ApplicationInsights.config
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\csc.exe
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\vbc.exe
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll.config
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.pdb
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Webdiyer.MvcPager.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Owin.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\log4net.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.pdb
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.pdb
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.pdb
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.pdb
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.pdb
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.pdb
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.pdb
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.csprojResolveAssemblyReference.cache
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.dll
+E:\WeiXin 2016-8\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll.config
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Owin.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\ApplicationInsights.config
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\csc.exe
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\vbc.exe
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll.config
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Webdiyer.MvcPager.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\log4net.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.csprojResolveAssemblyReference.cache
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll.config
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.Tests.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Webdiyer.MvcPager.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.DAL.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Data.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.Utils.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\WLX.WeiXin.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Deepleo.Weixin.SDK.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.MP.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\Senparc.Weixin.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin.Tests\obj\Debug\WLX.WeiXin.Tests.pdb

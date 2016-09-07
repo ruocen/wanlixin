@@ -1,0 +1,2 @@
+时间:2016/7/24 16:40:23;描述:订单生成通知https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx8603ba916a33ce46&redirect_uri=http%3a%2f%2fwww.xmwanlixin.cn%2fweixin%2fseeorderdetail%3forderid%3d5002738&response_type=code&scope=snsapi_base&state=wanlixin
+

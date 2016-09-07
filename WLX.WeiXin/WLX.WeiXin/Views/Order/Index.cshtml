@@ -1,0 +1,69 @@
+﻿@using WLX.WeiXin
+@section head
+{
+    @PageUtil.Import("/css/order.css")
+}
+<div id="chikr-home" class="chikr-wrapper">
+    <header>
+        <div class="chikr-header">
+            <a href="javascript:history.go(-1);" class="chikr-a-back"><span><返回</span></a>
+            <h2>订单</h2>
+        </div>
+    </header>
+    <div class="chikr-orders-list">
+    </div>
+</div>
+<script>
+    $(function () {
+        loadOrderList();
+    });
+
+    //加载订单列表
+    function loadOrderList() {
+        var url = getWebApiUrl() + "/api/WlxApi/GetOrderBySql";
+        $.ajax({
+            type: 'get',
+            url: url,
+            dataType: "JSON",
+            data: { "vipNo": "@ViewBag.c_Identity" },
+            //data: { "vipNo": "5002740" },
+            success: function (result) {
+                var obj = eval("(" + result + ")");
+                data = (new Function("", "return " + obj))();
+                var tbody = "";
+                if (data.length > 0) {
+                    $.each(data, function (i, n) {
+                        tbody += "<dl><dt>单号：" + n.c_chdh + "</dt>";
+                        tbody += "<dd>";
+                        tbody += "<ul class='chikr-pro-list'>";
+                        tbody += "<div class='chikr-nl-txt'>";
+                        tbody += "<li>";
+                        tbody += "<a href='/Order/OrderDetail?orderId=" + n.c_chdh + "'>";
+                        tbody += "<p class='chdh-shop'><em>消费门店:<span>" + n.c_shopname + "</span></em></p>";
+                        tbody += "<p class='chdh-shop'><em>消费金额:<span> " + n.c_TotalVip + "</span></em></p>";
+                        tbody += "<p class='chdh-shop'><em>商品数量:<span> × " + n.c_quantity + "</span></em></p>";
+                        tbody += "</a>";
+                        tbody += "</li>";
+                        tbody += "</ul>";
+                        tbody += "<div class='chikr-ol-total'>";
+                        tbody += "<span class='chikr-ol-d'>时间：" + dataTostring(n.c_Date) + "</span>";
+                        tbody += "<span class='chikr-ol-p'><a href='/Order/OrderDetail?orderId=" + n.c_chdh + "'>详情>></a></span>";
+                        tbody+="</div>";
+                        tbody+="</dd>";
+                        tbody+="</dl>";
+                    });
+                }
+                else {
+                    tbody+="<div class='chikr-orders-empty'>";
+                    tbody+="<img src='img/empty_orders.png' />";
+                    tbody+="<p>您当前还没有相关订单哦</p>";
+                    tbody += " </div>";
+                }
+                $('.chikr-orders-list').html(tbody);
+            },
+            error: function (data) {
+                //alert("加载请求错误！");
+            }
+        });
+    }
+</script>

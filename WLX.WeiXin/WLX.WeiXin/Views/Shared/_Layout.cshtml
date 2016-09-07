@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="apple-mobile-web-app-capable" content="no">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+    @WLX.WeiXin.PageUtil.Import("/css/styles.css")
+    @WLX.WeiXin.PageUtil.Import("/js/zepto.min.js")
+    @WLX.WeiXin.PageUtil.Import("/js/common.js")
+    @WLX.WeiXin.PageUtil.Import("/js/mustache/mustache.js")
+    @WLX.WeiXin.PageUtil.Import("/js/data.js")
+    @RenderSection("head")
+</head>
+<body>
+    <div>
+        @RenderBody()
+    </div>
+    <script src='http://res.wx.qq.com/open/js/jweixin-1.0.0.js'></script>
+
+</body>
+</html>

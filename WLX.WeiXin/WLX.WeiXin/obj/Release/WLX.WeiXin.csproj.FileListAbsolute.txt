@@ -1,0 +1,1053 @@
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\ApplicationInsights.config
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\csc.exe
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\vbc.exe
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll.config
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\log4net.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Owin.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WebGrease.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.pdb
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.csprojResolveAssemblyReference.cache
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.dll
+C:\Users\witcare\Desktop\万里信\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\ApplicationInsights.config
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\csc.exe
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\vbc.exe
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll.config
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\log4net.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Owin.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WebGrease.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.pdb
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.dll
+C:\Users\shixh\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\ApplicationInsights.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\csc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\vbc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\log4net.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WebGrease.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\ApplicationInsights.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\csc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\vbc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\log4net.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WebGrease.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-6\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\ApplicationInsights.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\csc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\vbc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\log4net.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WebGrease.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\ApplicationInsights.config
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\csc.exe
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\vbc.exe
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll.config
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\log4net.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Owin.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Webdiyer.MvcPager.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WebGrease.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.pdb
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.xml
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.csprojResolveAssemblyReference.cache
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.dll
+C:\Users\dev\Desktop\WeiXin 2016-7-31\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\ApplicationInsights.config
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\csc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\vbc.exe
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll.config
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\log4net.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Owin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Webdiyer.MvcPager.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WebGrease.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.pdb
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.csprojResolveAssemblyReference.cache
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.dll
+C:\Users\shixh\Desktop\WeiXin 2016-8-7\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\ApplicationInsights.config
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll.config
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\log4net.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Owin.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Webdiyer.MvcPager.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.dll
+C:\Users\Administrator\Desktop\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\ApplicationInsights.config
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\csc.exe
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Collections.Immutable.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Reflection.Metadata.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\vbc.exe
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe.config
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll.config
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\log4net.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Agent.Intercept.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Web.Infrastructure.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Owin.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Webdiyer.MvcPager.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WebGrease.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.pdb
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.csprojResolveAssemblyReference.cache
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.dll
+G:\WeiXin\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.pdb
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\ApplicationInsights.config
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\csc.exe
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Collections.Immutable.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Reflection.Metadata.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\vbc.exe
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe.config
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll.config
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.pdb
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Agent.Intercept.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Web.Infrastructure.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Owin.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WebGrease.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.pdb
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.pdb
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.pdb
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.pdb
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.pdb
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.pdb
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.pdb
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.csprojResolveAssemblyReference.cache
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.dll
+F:\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\ApplicationInsights.config
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll.config
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.WeiXin.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Owin.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Deepleo.Weixin.SDK.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.MP.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Senparc.Weixin.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.DAL.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.Data.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\WLX.Utils.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\WLX.WeiXin\obj\Release\WLX.WeiXin.pdb

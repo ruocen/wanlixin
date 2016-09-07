@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+
+</body>
+</html>
+<script src="Scripts/jquery-1.10.2.js"></script>
+<script>
+    $(function () {
+        var customer = "http://114.55.66.247:7777/api/WlxApi/GetCustomerNewBySql";
+        $.ajax({
+            type: 'get',
+            url: customer,
+            dataType: "JSON",
+            data: { "vipNum": "18850223327" },
+            success: function (result) {
+                //var obj = eval("(" + result + ")");
+                //data = (new Function("", "return " + obj))();
+                //if (result.length > 0) {
+                //    alert('chenggong!');
+                //}
+                console.log(result);
+            },
+        });
+    })
+    
+</script>

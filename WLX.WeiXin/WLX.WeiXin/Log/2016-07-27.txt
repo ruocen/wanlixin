@@ -1,0 +1,57 @@
+时间:2016/7/27 21:14:24;描述:订单编号：5002738
+
+时间:2016/7/27 21:14:25;描述:时间：1910/1/1 0:00:00
+
+时间:2016/7/27 21:14:26;描述:数量：2
+
+时间:2016/7/27 21:14:27;描述:原价：100
+
+时间:2016/7/27 21:14:27;描述:折后总价：90
+
+时间:2016/7/27 21:14:27;描述:店铺名称：万里信
+
+时间:2016/7/27 21:14:36;描述:订单生成通知https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxf9a96821ef56ba52&redirect_uri=http%3a%2f%2fwww.xmwanlixin.cn%2fweixin%2fseeorderdetail%3forderid%3d5002738&response_type=code&scope=snsapi_base&state=wanlixin
+
+时间:2016/7/27 21:15:17;描述:Senparc.Weixin.Exceptions.ErrorJsonResultException: 微信Post请求发生错误！错误代码：40003，说明：invalid openid hint: [IUAwvA0293age8]
+   在 Senparc.Weixin.HttpUtility.Post.GetResult[T](String returnText) 位置 C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Senparc.Weixin\Utilities\HttpUtility\Post.cs:行号 57
+   在 Senparc.Weixin.HttpUtility.Post.PostGetJson[T](String url, CookieContainer cookieContainer, Stream fileStream, Encoding encoding, Int32 timeOut, Boolean checkValidationResult) 位置 C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Senparc.Weixin\Utilities\HttpUtility\Post.cs:行号 102
+   在 Senparc.Weixin.MP.CommonAPIs.CommonJsonSend.Send[T](String accessToken, String urlFormat, Object data, CommonJsonSendType sendType, Int32 timeOut, Boolean checkValidationResult) 位置 C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Senparc.Weixin.MP\CommonAPIs\CommonJsonSend.cs:行号 77
+   在 Senparc.Weixin.MP.AdvancedAPIs.TemplateApi.<>c__DisplayClass0_0.<SendTemplateMessage>b__0(String accessToken) 位置 C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Senparc.Weixin.MP\AdvancedAPIs\TemplateMessage\TemplateApi.cs:行号 60
+   在 Senparc.Weixin.MP.ApiHandlerWapper.TryCommonApi[T](Func`2 fun, String accessTokenOrAppId, Boolean retryIfFaild) 位置 C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Senparc.Weixin.MP\CommonAPIs\ApiHandlerWapper.cs:行号 95
+   在 Senparc.Weixin.MP.AdvancedAPIs.TemplateApi.SendTemplateMessage(String accessTokenOrAppId, String openId, String templateId, String topcolor, String url, Object data, Int32 timeOut) 位置 C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\Senparc.Weixin.MP\AdvancedAPIs\TemplateMessage\TemplateApi.cs:行号 49
+   在 WLX.WeiXin.Controllers.wlxapiController.SendOrderNotice(OrderInfo info) 位置 C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\Controllers\wlxapiController.cs:行号 205
+
+时间:2016/7/27 21:16:20;描述:订单编号：5002738
+
+时间:2016/7/27 21:16:20;描述:时间：1910/1/1 0:00:00
+
+时间:2016/7/27 21:16:20;描述:数量：2
+
+时间:2016/7/27 21:16:20;描述:原价：100
+
+时间:2016/7/27 21:16:20;描述:折后总价：90
+
+时间:2016/7/27 21:16:20;描述:店铺名称：万里信
+
+时间:2016/7/27 21:16:20;描述:订单生成通知https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxf9a96821ef56ba52&redirect_uri=http%3a%2f%2fwww.xmwanlixin.cn%2fweixin%2fseeorderdetail%3forderid%3d5002738&response_type=code&scope=snsapi_base&state=wanlixin
+
+时间:2016/7/27 22:50:11;描述:System.InvalidCastException: 无法将类型为“System.String”的对象强制转换为类型“Newtonsoft.Json.Linq.JArray”。
+   在 WLX.WeiXin.Controllers.HomeController.Register(String mobile, String code) 位置 C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\Controllers\HomeController.cs:行号 95
+
+时间:2016/7/27 22:51:45;描述:System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 Newtonsoft.Json.Linq.JContainer.GetItem(Int32 index)
+   在 Newtonsoft.Json.Linq.JArray.get_Item(Int32 index)
+   在 WLX.WeiXin.Controllers.HomeController.Register(String mobile, String code) 位置 C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\Controllers\HomeController.cs:行号 96
+
+时间:2016/7/27 23:19:40;描述:System.InvalidOperationException: 数组的反序列化不支持类型“WLX.WeiXin.Models.CustomerNew”。
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertListToObject(IList list, Type type, JavaScriptSerializer serializer, Boolean throwOnError, IList& convertedList)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeInternal(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeMain(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   在 System.Web.Script.Serialization.ObjectConverter.ConvertObjectToType(Object o, Type type, JavaScriptSerializer serializer)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   在 System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   在 WLX.WeiXin.Controllers.HomeController.Register(String mobile, String code) 位置 C:\Users\shixh\Desktop\WeiXin 2016-7-26\WeiXin\WLX.WeiXin\WLX.WeiXin\Controllers\HomeController.cs:行号 96
+

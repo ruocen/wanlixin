@@ -1,0 +1,10 @@
+G:\WeiXin\WLX.WeiXin\Senparc.Weixin\bin\Debug\Senparc.Weixin.dll
+G:\WeiXin\WLX.WeiXin\Senparc.Weixin\bin\Debug\Senparc.Weixin.pdb
+G:\WeiXin\WLX.WeiXin\Senparc.Weixin\obj\Debug\Senparc.Weixin.dll
+G:\WeiXin\WLX.WeiXin\Senparc.Weixin\obj\Debug\Senparc.Weixin.pdb
+G:\WeiXin\WLX.WeiXin\Senparc.Weixin\obj\Debug\Senparc.Weixin.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\Senparc.Weixin\bin\Debug\Senparc.Weixin.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\Senparc.Weixin\bin\Debug\Senparc.Weixin.pdb
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\Senparc.Weixin\obj\Debug\Senparc.Weixin.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\Senparc.Weixin\obj\Debug\Senparc.Weixin.dll
+C:\Users\Administrator\Desktop\WLX.WeiXin20160826\WLX.WeiXin20160825\WLX.WeiXin\Senparc.Weixin\obj\Debug\Senparc.Weixin.pdb

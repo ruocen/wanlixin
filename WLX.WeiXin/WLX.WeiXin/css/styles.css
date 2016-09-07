@@ -1,0 +1,405 @@
+﻿@charset "utf-8";
+body,p,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,table,th,td,form,fieldset,legend,input,textarea,button,select {margin: 0;padding: 0;}
+html {word-wrap:break-word}
+h1,h2,h3 {font-size:100%}
+input,textarea,select,button {font-size:100%}
+body,input,button,textarea,select,option {font-size:normal}
+a,input,textarea {text-decoration:none;outline:0;-webkit-tap-highlight-color:rgba(24,155,252,0.5)}
+img,fieldset {border: 0;}
+ul,ol {list-style: none;}
+em,address {font-style: normal;}
+table {	border-collapse:collapse;border-spacing:0;empty-cells:show;font-size:inherit}
+li,img,label,input {vertical-align:middle}
+
+/**, *:before, *:after {box-sizing: border-box; }*/
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }  
+.clearfix:after { clear: both; }  
+.clearfix { zoom: 1; }
+
+main, article, aside, figure, footer, header, nav, section, details, summary {display: block;}
+
+body {min-width:320px;font-size:15px;color:rgba(0,0,0,1); font-family:Arial, Helvetica, sans-serif}
+body.chikr-body { background-color:#f2f2f2;}
+#body {padding-top:45px;}
+
+a {color: #000;text-decoration: none;}
+input,textarea,select,button {outline:none;}
+
+input.verify-error, select.verify-error, textarea.verify-error { color: #B94A48; background-color: #F2DEDE; border: 1px solid #EED3D7; }
+
+.app_nav {display:-webkit-box;display:-ms-flexbox;display:box;box-orient:horizontal;z-index:100;position:fixed;bottom:0;left:0;right:0;height:48px;border:1px #CDCDCD solid;border-right:none;border-left:none;background-color:#FFF;}
+.app_nav a {-webkit-box-flex:1;-ms-flex:1;box-flex:1;display:block;position:relative;width:0;height:15px;font-size:9px;color:#7a7a7a;padding-top:37px;text-align:center;}
+.app_nav a::before {content:"";position:absolute;bottom:17px;left:50%;width:30px;height:30px;margin-left:-14px;background-image:url(../img/app_nav_dot.png);-webkit-background-size:135px 70px;background-size:135px 70px; background-position:-3px -3px;}
+.app_nav a:nth-child(2)::before {margin-left:-15px;background-position:-35px -3px;}
+.app_nav a:nth-child(4)::before {margin-left:-16px;background-position:-69px -2px;}
+.app_nav a:nth-child(5)::before {margin-left:-15px;background-position:-104px -3px;}
+.app_nav a.current::before {background-position:-3px -38px;}
+.app_nav a:nth-child(2).current::before {background-position:-35px -38px;}
+.app_nav a:nth-child(4).current::before {background-position:-69px -37px;bottom: 18px;}
+.app_nav a:nth-child(5).current::before {background-position:-105px -39px;}
+.app_nav .act_nav:before { content:"创业大赛"; position:absolute; width:70px;height:15px; color:#FFF; background:url(../img/act_nav_icon.png); background-size:70px 80px; bottom:0; left: 20%;left: calc(50% - 20px);left: -webkit-calc(50% - 20px); padding: 60px 0 0 0; }
+
+.app_list_loading { width: 18px; height: 18px; margin: 10px auto; border-radius: 20px;border: 3px #DFDFDF solid; border-top: 3px #ffcc2f solid;-webkit-animation: aniRound360 0.8s 0s linear infinite; -moz-animation: aniRound360 0.8s 0s linear infinite;animation: aniRound360 0.8s 0s linear infinite;}
+.app_list_load_last { width:100%; padding:10px 0; display:inline-block; text-align:center; color:#666; }
+
+@-webkit-keyframes aniRound360 { from {-webkit-transform:rotate(0deg);}	to {-webkit-transform:rotate(360deg);} }
+@-moz-keyframes aniRound360 { from {-moz-transform:rotate(0deg);} to {-moz-transform:rotate(360deg);} }
+@keyframes aniRound360 { from {transform:rotate(0deg);} to {transform:rotate(360deg);} }
+
+.chikr-home-search { background-color:#AFAFB5;position: relative; padding:0.5em 1em; }
+.chikr-home-search input.searchinput{ width:100%; height:2em; line-height:2em; padding:0 5px; border: none;border-radius:8px;}
+.chikr-home-search a{ height: 20px; width: 30px; position: absolute;right: 20px;top: 16px;text-align:right; }
+
+.chikr-fl {float: left;}
+.chikr-fr {float: right;}
+.chikr-tbl-type {display: table;width: 100%;}
+.chikr-tbl-cell {display: table-cell;}
+.chikr-pos-rel {position: relative;}
+.chikr-fs-xsmall { font-size:0.625em}
+.chikr-fs-small { font-size:0.75em}
+.chikr-fs-medium { font-size:0.875em}
+.chikr-fs-large { font-size:1.25em}
+.chikr-fs-xlarge { font-size:1.5em}
+.chikr-fs-xxlarge { font-size:2em}
+/*.chikr-fw-bold {font-size:0.85em;}*/
+.chikr-mg-t10 {margin-top: 10px;font-size:0.85em;}
+.chikr-mg-t20 {margin-top: 20px;}
+.chikr-mg-t30 {margin-top: 30px;}
+.chikr-mg-t40 {margin-top: 40px;}
+.chikr-mg-b5 {margin-bottom: 5px;}
+.chikr-mg-b10 {margin-bottom: 10px;}
+.chikr-mg-b15 {margin-bottom: 15px;}
+.chikr-mg-l5 {margin-left: 5px;}
+.chikr-mg-t5 {margin-top: 5px;}
+.chikr-mg-th {margin-top: 45px;}
+.chikr-mg-l12 {margin-left: 12px;}
+.chikr-mg-l14 {margin-left: 14px;}
+.chikr-mg-l16 {margin-left: 1em;}
+.chikr-mg-r5 {margin-right: 5px;}
+.chikr-mg-r12 {margin-right: 12px;}
+.chikr-mg-r14 {margin-right: 14px;}
+.chikr-mg-r16 {margin-right: 1em;}
+.chikr-mg-tb30 {margin: 30px 0;}
+.chikr-mg-tb15 {margin: 15px 0;}
+.chikr-mg-tb10 {margin: 10px 0;}
+.chikr-pd-lr10 {padding: 0 10px;}
+.chikr-pd-b10 {padding-bottom: 10px;}
+.chikr-pd-tb30 {padding: 30px 0;}
+
+.chikr-blue { color:#189bfc}
+.chikr-deepblue { color:#4272d7}
+.chikr-orangered { color:#ff5f3d}
+.chikr-orange { color:#ffa037}
+.chikr-green { color:#83d160}
+.chikr-violet { color:#bd59d4}
+
+.chikr-fc-red { color:#ff4965}
+.chikr-fc-gray { color:#929292; }
+.chikr-fc-6 { color:#666}
+.chikr-fc-8{color:#888}
+.chikr-fc-9{color:#a9a9a9}
+.chikr-gray-81{color:#818181}
+
+.chikr-lay-flex{display:-webkit-box;}
+.chikr-lay-flex_item{-webkit-box-flex:1;display:block !important;/*must be block*/width:0;}
+.chikr-bor-r2 { border-radius:2px;-webkit-border-radius:2px;-moz-border-radius:2px;-o-border-radius:2px;-ms-border-radius:2px;}
+.chikr-bor-r4 { border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;-o-border-radius:4px;-ms-border-radius:4px;}
+.chikr-bor-r8 { border-radius:8px;-webkit-border-radius:8px;-moz-border-radius:8px;-o-border-radius:8px;-ms-border-radius:8px;}
+
+::-webkit-input-placeholder {color: #ccc;}  
+:-moz-placeholder {color: #ccc;}  
+
+/* chikr.Design iconfont */
+@font-face{font-family:'iconfont';src:url('iconfont/iconfont.eot');src:url('iconfont/iconfont.eot?#iefix') format('embedded-opentype'),url('iconfont/iconfont.woff') format('woff'),url('iconfont/iconfont.ttf') format('truetype'),url('iconfont/iconfont.svg#uxiconfont') format('svg')}.iconfont{font-family:"iconfont"!important;font-size:1em;font-style:normal;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-chikr-order:before{content:"\e601"}.icon-chikr-back:before{content:"\e60c"}.icon-chikr-profiles:before{content:"\e61b"}.icon-chikr-card:before{content:"\e602"}.icon-chikr-feedback:before{content:"\e605"}.icon-chikr-service:before{content:"\e615"}.icon-chikr-add:before{content:"\e608"}.icon-chikr-selected:before{content:"\e616"}.icon-chikr-special:before{content:"\e60b"}.icon-chikr-events:before{content:"\e61c"}.icon-chikr-cart:before{content:"\e611"}.icon-chikr-cart-thin:before{content:"\e612"}.icon-chikr-list:before{content:"\e600"}.icon-chikr-person:before{content:"\e62a";font-size: 1.5em; color:#000}.icon-chikr-unchecked:before{content:"\e62b"}.icon-chikr-checked:before{content:"\e626"}.icon-chikr-notice:before{content:"\e623"}
+/* end of chikr.Design iconfont */
+
+#chikr-home { width:100%;}
+
+.chikr-home-ban { margin-top:44px; no-repeat; -webkit-background-size:100% 100%;-moz-background-size:100% 100%;-o-background-size:100% 100%;background-size:100% 100%;border-bottom:1px #CDCDCD solid;}
+.chikr-home-ban  img{width:100%;}
+
+.chikr-header {background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEUlEQVQIW2NkAALGTZs2/QcAB1oDGNoEHHIAAAAASUVORK5CYII=") repeat-x 0 100%;-webkit-background-size: 100% 1px;background-size: 100% 1px}
+
+.chikr-header {position:fixed; top:0; left:0; width:100%;min-height: 45px; line-height:44px; background-color:rgba(254,206,34,1);z-index:100;}
+.chikr-header h2 {height: 44px;line-height: 44px;font-weight: normal;font-size: 1.2em;color:rgba(0,0,0,1);text-align: center;}
+.chikr-nobor { border:none}
+
+.chikr-a-back {position: absolute;top: 0;left: 0;width: 100px;height: 44px;}
+.chikr-a-back span {display: block;width: 100px;height: 44px;color:#2D3438;line-height:44px;text-indent:0.5em;font-size:0.85em;}
+.chikr-a-act {position: absolute;top: 0;right: 0;width: 50px;height: 44px;line-height:44px; font-size:1em;color:#eb4847;text-align:center;}
+.chikr-a-act span {display: block;width: 50px;height: 44px;font-size:1.25em;color:#2D3438; line-height:44px;}
+.chikr-a-act span.chikr-fontsize { font-size:1.6em}
+
+.chikr-client-header {position:fixed; top:0; left:0; width:100%;min-height: 45px; line-height:44px; background-color:rgba(254,206,34,1);z-index:100;}
+
+.chikr-client-a {top: 0;left: 0; height: 44px;text-align:center;}
+.chikr-client-a img{height:35px;width:35px;border-radius:20px;margin:5px 5px 0 5px; vertical-align:top;}
+.chikr-client-a span {height: 44px;font-size:1.25em;color:#2D3438;line-height:44px;text-indent:0.5em; font-weight:bold;}.chikr-notice { position: absolute; text-decoration: none; top: 0; right: 15px; height: 44px; line-height: 44px; font-size: 1.5em; text-align: center; }
+.chikr-notice { position: absolute; text-decoration: none; top: 0; right: 15px; height: 44px; line-height: 44px; font-size: 1.5em; text-align: center; }
+.chikr-notice .num { position: absolute; top: 6px; right: -5px; min-width: 10px; height: 18px; padding: 0 4px; background-color: #D7091C; color: #fff; line-height: 20px; text-align: center; border-radius: 18px; font-size: 0.525em;}
+
+.chikr-client-act {position: absolute;top: 0;right: 0;width: 50px;height: 44px;line-height:44px; font-size:1em;color:#eb4847;text-align:center;}
+
+.chikr-viewport {min-height: 100%;position: relative; overflow:hidden}
+
+
+.chikr-bor-t,.chikr-form-inner,.chikr-orders-detail ul { background:url(../imgs/chikr-line-df_top.png) repeat-x 0 0; -webkit-background-size:100% 1px;background-size:100% 1px}
+.chikr-view-list li,.chikr-view-list-link li,.chikr-input-span,.chikr-input-span-textarea,.chikr-addr dl dt,.chikr-news-list li,.chikr-pros-list li,.chikr-pro-list li,.chikr-orders-list dl dt,.chikr-orders-detail li,.chikr-orders-express li,.chikr-pd-tit { background:url(../imgs/chikr-line-df_bottom.png) repeat-x 0 100%; -webkit-background-size:100% 1px;background-size:100% 1px}
+.chikr-addr dl,.chikr-orders-list dl dt,buy_area { background:url(../img/chikr-line-c_top.png) repeat-x 0 0; -webkit-background-size:100% 1px;background-size:100% 1px}
+.chikr-addr dd,.chikr-score-title,.chikr-total-price,.chikr-ol-total,.chikr-addr-cho { background:url(../img/chikr-line-c_bottom.png) repeat-x 0 100%; -webkit-background-size:100% 1px;background-size:100% 1px}
+
+.chikr-view-list,.chikr-view-list-link { background-color:#fff;}
+.chikr-view-list li,.chikr-view-list-link li { height:44px; line-height:44px;}
+.chikr-view-list li a,.chikr-view-list-link li a { display:block;height:44px;line-height:44px;}
+.chikr-view-list .chikr-list-label { width:80px; display:block; float:left; color:#8e8e8e;}
+.chikr-view-list .chikr-list-text { float:left; width:216px; word-break:break-all}
+.chikr-view-list li { padding:0 0.75em;}
+.chikr-view-list-link li a { padding:0 0.75em; background:url("../imgs/chikr-arrow1.png") no-repeat 98% 50%;-webkit-background-size:7px 12px;-moz-background-size:7px 12px;-o-background-size:7px 12px;background-size:7px 12px}
+.chikr-view-list-link li a .chikr-al-icon {font-size:1.125em;color:#8e8e8e;}
+
+#chikr-side-menu .chikr-al-icon { margin-right:0.875em; font-size:1.125em}
+
+.app_page_loading { position: fixed; z-index: 200; top: 0; bottom: 0; left: 0; right: 0; background-color: rgba(0,0,0,.2); }
+.share_list { position: absolute; background-color: #fff; top:5em; left: 0; right: 0; margin:0 15px; border-radius:8px; }
+.share_list .popup_span { line-height:40px; font-size: 1em; font-weight:bold;margin:0 15px;}
+.share_list .popup_info { padding:10px;}
+
+.chikr-wrapper .share_c_list { position: absolute; background-color: #fff; top:5em; left: 5%; right: 5%; border-radius:8px; }
+
+.chikr-wrapper .share_client_list { position: fixed; top:50px; right: 8px; width:100px; z-index:200; }
+.chikr-wrapper .share_client_list .cur:after { content: '\20';width: 0; height: 0; overflow: hidden; font-size: 0;display: inline-block; border-width: 8px;border-color: transparent transparent #3c3c3c transparent;	border-style: dashed solid dashed dashed;position: absolute;top: -15px;	right: 10px; }
+.chikr-wrapper .share_client_list .popup_info { background-color: #3c3c3c; padding:0.2em 1em; opacity: 0.9; }
+.chikr-wrapper .share_client_list .popup_info li { border-bottom:1px #FFF solid; padding: 7px 0; }
+.chikr-wrapper .share_client_list .popup_info li  a{ color:#FFF; font-size:1em; padding: 0 0 0 0.2em; }
+.chikr-wrapper .share_client_list .popup_info li:nth-child(2) {border-bottom:none;}
+
+.chikr-news-list {margin-top:44px;}
+.chikr-news-list li { display:block; height:auto; padding:1em 0.75em; text-align: -webkit-match-parent;}
+.chikr-news-list li a { display:block;}
+.chikr-news-list .chikr-nl-img {width:60px; margin-right:0.35em; display:inline;float:left; height:60px;overflow:hidden;}
+.chikr-news-list .chikr-nl-img img { width:60px;}
+.chikr-news-list .chikr-nl-txt { width:75%; width:calc(100% - 70px);width:-webkit-calc(100% - 70px); display:inline;height:60px; float:left;}
+.chikr-news-list h2 { overflow:hidden; font-size:0.9em; white-space:nowrap;text-overflow: ellipsis;}
+.chikr-news-list p { /*height:2.1em;*/margin-top: 5px;margin-bottom: 5px; overflow:hidden; font-size:0.75em; line-height:1.125em; color:#666; word-break:break-all;text-overflow: ellipsis;}
+
+.chikr-pros-list {}
+.chikr-pros-list .chikr-nl-btn {width:55px; display:inline; float:right;height:60px;}
+.chikr-pros-list .chikr-nl-img { position:relative; width:6.5em; margin-right:0.35em; display:inline;float:left;overflow:hidden; text-align:center; }
+.chikr-pros-list .chikr-nl-img img { height:6.5em;}
+.chikr-pros-list .chikr-nl-txt { width:65%; width:calc(100% - 8em);width:-webkit-calc(100% - 8em); display:inline;height:80px; float:left; padding:0.5em 0 0.5em 0.5em;}
+.chikr-pros-list h2 { overflow:hidden; font-size:0.9em; white-space:nowrap; text-overflow:ellipsis; }
+
+.chikr-pros-list li { height:6.5em; border-top:8px #EEE solid;}
+.chikr-pros-list p{height:1em; overflow: hidden; font-size: 0.75em; line-height: 1.125em; color: #666; word-break: break-all; }
+.chikr-pros-list .chikr-nl-txt .chikr-nl-price { width:62%; width:calc(100% - 75px);width:-webkit-calc(100% - 75px);float:left; padding: 0.3em 0 0 0;}
+.chikr-pros-list .chikr-nl-txt .chikr-nl-price p{ padding:0.2em 0; }
+.chikr-pros-list .chikr-nl-txt .chikr-nl-price p:nth-child(4){ color:#000; }
+.chikr-pros-list .chikr-nl-btn { width:70px; height:55px; display:inline; float:right; margin:0.5em 0; border-left:2px #EEE solid;}
+
+.chikr-pros-list .chikr-nl-btn .btn_add:before { content: ""; position: absolute; margin-left:3px; width: 21px; height: 20px; background-image: url(../img/dot.png); -webkit-background-size: 135px 20px; background-size: 135px 20px; background-position: -51px -1px; }
+.chikr-pros-list .chikr-nl-btn .btn_added:before { background-position: -73px -1px; margin-left:12px; }
+.chikr-pros-list .chikr-nl-btn .btn_add { position: relative; display:block; font-size:13px; line-height:53px; margin-top:8px; text-align:center;}
+
+.chikr-pros-list .chikr-nl-btn .btn_join:before{position: absolute;top: -7px;background:url(../img/dot.png);width: 25px; height: 25px;background-size: 170px 25px; background-position: -144px 0px;}
+
+.chikr-news-detail { padding:0.75em}
+.chikr-news-title { margin:0 0 0.75em 0; font-size:1.4em; line-height:1.25em}
+.chikr-news-datetime { padding:0 0 10px 0; color:#666; font-size:0.8em;}
+.chikr-news-datetime span{ padding:0 0 0 10px; font-size:0.75em;color:#189bfc; }
+.chikr-new-info { font-size:1em; line-height:1.6em}
+.chikr-new-info img { width:100%; height:auto}
+.chikr-new-info p { margin-bottom:20px;}
+
+.chikr-news-sharebar { height:2.45em; line-height:2.45em; background-color:#f5f5f5; border-top:1px solid #e5e5e5}
+.chikr-ns-f { display:inline-block; float:left; margin:0 0 0 12px; padding:0 0 0 24px; background: url("../imgs/chikr-wx.png") no-repeat 0 50%;-webkit-background-size:20px 20px;-moz-background-size:20px 20px;-o-background-size:20px 20px;background-size:20px 20px }
+.chikr-ns-t { width:44px; float:right; display:block; text-align:center; color:#8e8e8e}
+
+.chikr-products-grid { padding:0 20px 0 10px; background-color: #FFF; border-top:10px #EEE solid; }
+.chikr-products-grid ul {}
+.chikr-products-grid ul li { direction:block; width:50%; position:relative; float:left; margin-bottom:10px; border:1px #EEE solid; overflow:hidden; }
+.chikr-products-grid ul li:nth-child(2n) { float:right; margin-right:-10px}
+.chikr-products-grid ul li a {}
+.chikr-products-grid ul li a .chikr-pg-cover { position:relative; display:block; overflow:hidden; text-align:center; }
+.chikr-products-grid ul li a .chikr-pg-price { display:block; padding:0 10px; height:25px; line-height:1.125em; font-size:1em; color:#eb4847}
+.chikr-products-grid ul li a .chikr-pg-price span{ text-decoration:line-through; }
+.chikr-products-grid ul li a .chikr-pg-fn { padding:5px 10px 0 10px; margin-bottom:5px; min-height:32px; position:relative; font-size:0.875em; word-break:break-all; color:#555; overflow: hidden; display:block; display: -webkit-box; -webkit-line-clamp: 2;-webkit-box-orient: vertical}
+
+.buy_area{overflow:hidden;background:#fff;}
+.buy_area .fn_wrap{padding-top:12px;padding-bottom:13px}
+.buy_area .fn_wrap .fn{color:#333;overflow:hidden;font-size:1em;font-weight:400;line-height:1.125em;max-height:3em;font-weight:bold;}
+.buy_area .tit{color:#333;font-size:16px;}
+.buy_area .price{ font-size:23px;line-height:16px;height:30px;color:#fc4668;position:relative;top:2px;font-weight:bold}
+.buy_area .flag{float:left;font-size:12px;color:#fff;width:50px;height:15px;line-height:15px;text-indent:14px;background-position:-50px 0}
+.buy_area .price_wrap{height:30px;overflow:hidden; clear:both;margin-left:10px;}
+.buy_area .old_price{float:left;color:#b5b5b5;margin-right:8px}
+
+.sku_no_sku .sku,.sku_no_sku .attr_wrap{display:none}
+.sku_no_sku .sku_num{display:block;margin-top:10px}
+.sku_container_on{padding-top: 10px;background-color: #e5e5e5; clear:both;}
+.sku_container_on .arr_sku{background-position:-40px -30px}
+.sku_container_on .sku_wrap{display:block}
+.attr_wrap{position:relative;font-size:12px;line-height:12px;height:12px}
+.attr_wrap .tit{color:#999;font-size:12px}
+.attr_wrap .attr{color:#333}
+
+.btn_wrap .btn{float:left;width:44%;height:34px;line-height:34px;text-decoration:none;text-align:center;background:#fed12e;position:relative;border-radius:5px;-webkit-border-radius:5px;border:1px solid #fed12e;}
+.btn-sure{background-color:transparent!important;border:1px solid #000!important;}
+.btn_wrap .btn_cart{float:left;width:48%;background-color:transparent!important;border:1px solid #000!important;}
+.btn_wrap .btn_cart_disabled{background:#aaa!important}
+.btn_wrap .btn_buy{float:right;width:48%}
+.btn_wrap .btn {display: inline-block;float: none;}
+
+.btn_wrap .btn_buy_disabled{background:#aaa!important}
+.btn_wrap_static{border-top:1px solid #ddd;border-bottom:1px solid #ddd}
+
+.discount_wrap{border-bottom:1px solid #ddd}
+.avatar_wrap_on .avatar{opacity:.5}
+.avatar{float:right;width:25px;height:25px;margin-right:20px;margin-top:15px;background-position:-27px -60px}
+.avatar_my{background-position:0 -122px}
+.btn_full{display:block;height:40px;line-height:40px;margin:10px 0;background:#f5f5f5;position:relative;text-align:center;border:1px solid #ccc;border-radius:2px;-webkit-border-radius:2px;-webkit-transform:translateX(0px)}
+
+
+.sku_wrap{display:none;padding:0 10px;background:#fff;position:relative; border-bottom:10px solid #e5e5e5;}
+.sku_wrap h3{float:left;width:35px;height:25px;line-height:36px;font-size:12px;font-weight:normal;color:#999;overflow:hidden}
+.sku_wrap .sku_list{overflow:hidden}
+.sku_wrap .option{float:left;position:relative;height:25px;line-height:25px;text-align:center;font-size:12px;min-width:2em;overflow:hidden;padding:0 10px;margin:6px 5px 6px 0;word-break:break-all;color:#fc4668;position:relative; border-left: 1px #828282 solid;}
+.sku_wrap .option:nth-child(1) {border:none;}
+.sku_wrap .option_1{ color:#fc4668;float:left;position:relative;height:38px;line-height:38px;text-align:center;font-size:12px;}
+.sku_wrap .option img{width:28px;height:28px;vertical-align:middle;margin:-3px 5px 0 0}
+.sku_wrap .option_selected{border-color:#189bfc}
+.sku_wrap .option_selected:after{content:"";width:10px;height:10px;position:absolute;bottom:-1px;right:-1px;background: url(../img/chikr-selected.png) no-repeat; background-size:10px 10px;}
+.sku_wrap .option_disabled{color:#bbb;border-color:#ddd}
+.sku_wrap .option_disabled:after{display:none}
+.sku_wrap .sku_list_img .option{width:38px;height:38px;padding:0;background:#fff;position:relative}
+.sku_wrap .sku_list_img .option_selected:after{content:"";width:36px;height:36px;border:2px solid #d90000;position:absolute;top:-1px;left:-1px}
+.sku_wrap .sku_list_img img{display:block;width:38px;height:38px;margin:0}
+.sku_wrap .sku_list_img .option_disabled{border-color:#ddd;border:1px solid #ddd}
+.sku_wrap .sku_list_img .option_disabled img{-webkit-filter:grayscale(0.5);opacity:.3}
+.sku_num{overflow:hidden}
+.num_wrap{float:left;width:130px}
+.num_wrap span,.num_wrap input{float:left;width:30px;height:30px;line-height:30px;border:1px solid #ddd;text-align:center;position:relative;}
+.num_wrap .minus:after{content:"";width:16px;height:4px;position:absolute;background:#39312f;border-radius:2px;-webkit-border-radius:2px;left:50%;top:50%;margin-top:-2px;margin-left:-8px}
+.num_wrap .minus_disabled:after{background:#aaa}
+.num_wrap .num{-webkit-appearance:none;border-radius:0;width:60px;height:30px;line-height:normal;border:1px solid #ddd;background:#fff;border-left:0;border-right:0;font-size:16px;background:#fff;text-align:center}
+.num_wrap .plus:after{content:"";width:16px;height:4px;position:absolute;background:#39312f;border-radius:2px;left:50%;top:50%;margin-top:-2px;margin-left:-8px}
+.num_wrap .plus:before{content:"";width:16px;height:4px;position:absolute;background:#39312f;border-radius:2px;left:50%;top:50%;width:4px;height:16px;top:50%;margin-top:-8px;margin-left:-2px}
+.num_wrap .plus_disabled:before{background:#938f8e}
+.num_wrap .plus_disabled:after{background:#938f8e}
+.num_wrap_disabled .minus:after{background:#938f8e}
+.num_wrap_disabled .num{color:#bbb}
+.num_wrap_disabled .plus:before{background:#938f8e}
+.num_wrap_disabled .plus:after{background:#938f8e}
+.stocks{float:left;height:30px;line-height: 30px;color:#999;font-size:12px;}
+.stocks i{font-style:normal;}
+.stock_num{float:left;display:table;margin-left:15px;color:#999;line-height:18px;font-size:12px;padding:2px;height:36px}
+.stock_num .inner{display:table-cell;vertical-align:middle}
+.btn_layer_wrap{width:100%;height:56px;line-height:56px;overflow:hidden;background:rgba(0,0,0,0.7);padding:0;position:relative}
+.btn_layer_wrap .total_price{float:left;padding-left:10px;width:40%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#fff;font-size:16px}
+.btn_layer_wrap .btn_confirm_wrap,.btn_layer_wrap .btn_col{float:right;width:47%;margin-right:10px;margin-top:8px}
+.btn_layer_wrap .btn_col .btn_cart{width:28%}
+.btn_layer_wrap .btn_col .btn_buy{width:69%}
+.btn_layer_wrap .btn_confirm{width:100%;background:#3985ff}
+.btn_layer_wrap .btn_confirm_disabled{background:#aaa}
+
+
+.buy_area .fn_wrap,.attr_wrap,.btn_wrap,.sales_wrap,.discount_wrap,.shop_info_wrap,.buy_tip{padding:15px 10px;overflow:hidden;text-align:center;}
+.buy_area .fn_wrap .fn,.detail_info_wrap .cmt_list .cmt_cnt{overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.sku_wrap:after,.detail_promote .promote_tag:after{clear:both;content:'\20';display:block}
+.layer_detail_full,.layer_show,.detail_info_wrap .detail_list,.detail_info_wrap .detail_item{backface-visibility:hidden;-webkit-backface-visibility:hidden;-ms-backface-visibility:hidden;-webkit-transform-style:preserve-3d}
+
+.chikr-product-detail {}
+.chikr-product-detail .chikr-pd-tit { padding:.75em; background-color:#fafafa}
+.chikr-product-detail .chikr-pd-main { padding:1em .75em; word-break:break-all; font-size:0.625em; line-height:20px;margin-bottom:50px; overflow: hidden; }
+.chikr-pic_show{display:none;background:rgba(0,0,0,0.8);position: fixed;left:0;right:0;top:0;bottom:0;z-index:9999;width:100%;height:100%;min-height:800px;}
+.chikr-pic_show .swiper-con{width:100%;margin:48px auto;}
+.chikr-pic_show .swiper-con img{width:100%;margin:0 auto;}
+#chikr-warn{display:none;position: fixed;width:180px;padding:10px 0;border-radius:4px;font-size:1em;text-align: center;line-height: 22px;color:#fff;top:50%;left:50%;margin-left:-90px;background:rgba(0,0,0,0.8);}
+
+.chikr-cart .chikr-pro-list li {padding:12px 12px 12px 110px;}
+.chikr-pro-list li { overflow:hidden; position:relative; background-color:#fff;}
+.chikr-pro-checkbox { position:absolute; display:block; width:21px; height:21px; top:12px; left:10px; border-radius:20px; background:#ffd12f; }
+.chikr-pro-checkbox:before { content:""; position:absolute; width:12px;height:5px; top:5px; left:4px; border-bottom: 2px solid; border-left: 2px solid; -webkit-transform: rotate(-45deg); transform: rotate(-45deg); }
+.chikr-pro-uncheckbox { position:absolute; display:block; width:17px; height:17px; top:12px; left:10px; border:2px #929292 solid; border-radius:20px; }
+.chikr-cart .chikr-pro-list li .chikr-pro-img { width:70px; display:block; position:absolute; top:.75em; left:35px;}
+.chikr-pro-list li h3 { margin-bottom:4px;font-size:0.875em;}
+/*.chikr-pro-list li p { padding:5px 2px;font-size:0.85em;width:100%;}
+.chikr-pro-list li p span{width:50%;}
+.chikr-pro-list li p em { color:#999;font-size:0.85em;}*/
+/*.chikr-mg-t10 chikr-fw-bold{padding:5px 2px;font-size:0.85em;width:50%;}*/
+.shop-chdh-left{width:50%;}
+.shop-quantity-num{width:10%;margin-left:10%;font-size:0.85em;}
+.shop-money-cprice{float:right;text-decoration:line-through;font-size:0.85em;width:25%;}
+.shop-money-discount{float:right;font-size:0.85em;width:25%;}
+.shop-money-cpricevip{float:right;font-size:0.85em;width:25%;}
+.emmin{color:#999;font-size:0.75em;margin-top:10px;width:50%;}
+
+.chikr-pro-list li .sku h3 { float:left;width:35px;height:30px;line-height:30px;font-weight:normal;font-size:0.75em;color:#999;overflow:hidden;}
+.chikr-pro-list li .chikr-price-plus { color:#eb4847; padding:4px 0 2px 35px;}
+
+.chikr-total-price { height:36px; line-height:36px; background-color:#fafafa}
+.chikr-total-price strong { color:#eb4847}
+
+.chikr-addr-cho a { display:block; padding:0.75em 3em 0.75em 0.75em; background:url(../imgs/chikr-arrow.png) no-repeat 96% 50%; -webkit-background-size:7px 14px;}
+.chikr-addr-cho p { font-size:0.875em; line-height:1.5em;}
+.chikr-addr-cho p span { font-size:1.125em; margin-right:4px}
+
+.chikr-form-send {margin: 2em 0; padding:0 0.75em;}
+.chikr-abtn-type,.chikr-abtn-s,.chikr-abtn-m,.chikr-abtn-ms {display: block;padding: 0;border-radius: 2px;-webkit-border-radius: 2px;-moz-border-radius: 2px;-o-border-radius: 2px;background-color: #189BFC;color: #fff;text-align: center;}
+.chikr-abtn-type {height:40px;line-height:40px;font-size: 18px;}
+.chikr-abtn-ms {height:28px;line-height:28px;font-size: 0.875em;}
+.chikr-abtn-s { width:60px; height:24px;line-height:24px;margin:0 0 0 12px;font-size:0.875em;}
+.chikr-abtn-f { padding:0 10px 0 0; height:24px; line-height:24px; font-size:0.875em;}
+.chikr-abtn-m { width:80px; height:28px;line-height:28px;margin:0 0 0 12px;font-size:0.875em;}
+
+.icon-chikr-selected,.icon-chikr-checked,.icon-chikr-radio-actived { color:#ffd12f; font-size:1.5em;}
+.icon-chikr-unselected,.icon-chikr-unchecked { color:#ccc; font-size:1.5em;}
+.chikr-score-title { height:24px; line-height:24px; font-size:0.875em; padding-left:0.625em; background:rgba(248,248,248,1) url(../img/chikr-line-c_bottom.png) repeat-x 0 100%; -webkit-background-size:100% 1px;background-size:100% 1px}
+
+@-ms-viewport {width: device-width;}
+@viewport {width: device-width;}
+@media screen and (min-width: 360px) {
+body { font-size:16px}
+}
+
+/*.img_span:before{content: ""; position: absolute; width: 87px; height: 80px; margin-left:-90px; background-image: url(../img/success.png); -webkit-background-size: 87px 80px; background-size: 87px 80px;}
+.img_span{padding:20px 15px 20px 100px;height:50px;}
+.img_span_sold:before{margin-top:-20px;background-image: url(../imgs/sold_out.png);}
+.img_span_sold{padding:30px 15px 10px 100px;}
+.img_span_win:before{background-image: url(../imgs/win.png);}
+.img_span_reminder:before{margin-top:-10px;background-image: url(../imgs/reminder.png);}
+.img_span_error:before{margin-top:-8px;background-image: url(../imgs/error.png);}
+.hint{text-align:center;border-bottom:1px solid #d2d2d0;}*/
+
+/*.chikr-pro-background{position:absolute;z-index:80;left:0;right:0;top:0;bottom:0;background-color:rgba(0,0,0,.2);line-height:60px;}
+.chikr-pro-sellout{background-color:rgba(0,0,0,.4);width:48px;height:48px;line-height:48px;border-radius:50%;position:absolute;top:12%;left:17%;color:#fff;text-align:center;}
+.chikr-index-sellout { background-color: rgba(0,0,0,.4); width: 100%; height: 20px; line-height: 20px; position: absolute; bottom: 0; left: 0; color: #fff; text-align: center; padding: 5px 0; }
+
+.chikr-inv-tight:after{ content: "库存紧张"; position: absolute; width: 110px; height: 30px; line-height:30px; background: #ff4965; color:#FFF; font-weight:bold; text-align:center; -webkit-transform: rotate(45deg); transform: rotate(45deg); top:13px; right:-27px; }
+
+.search-empty {margin-top: 44px;background: url(../img/search-empty.png) no-repeat;height: 100px;width: 100px;background-size:100px 100px;position: relative;left: 30%;left: calc(50% - 50px);left: -webkit-calc(50% - 50px);margin-top:80px;}
+.search-text-center{text-align:center;}*/
+
+/* 浮动购物车start */
+/*.mini_btn { position: fixed;display: block;bottom:55px;right: 0;height: 50px;background-color: rgba(255,219,96,7);border-top-left-radius: 25px;border-bottom-left-radius: 25px;padding:0 0 0 8px; z-index:100; }
+.mini_sbtn{bottom:10px;width: 100px;}
+.mini_sbtn  .mini_cart .num{right: 51px}
+.mini_cart { display: inline-block;width:53px;height: 50px;line-height: 50px;text-align: center;font-size: 2em; border-right:1px #FFF solid; }
+.mini_cart:before{ content:"\e634"; }
+.mini_cart .num { position: absolute; top: 7px; right: 5px; min-width: 15px; height: 20px; padding: 0 2px; background-color: #D7091C; color: #fff; line-height: 22px; text-align: center; border-radius: 50%; font-size: 0.44em; }
+.mini_query { width: 45px;height: 50px;line-height: 50px;text-align: center;font-size:2.3em;float: right;font-weight:bold; }
+.mini_query:before{ content:"\e636";}
+.chikr-pd-b50{padding-bottom:55px;}
+.position_bt5{bottom:5px;}*/
+/* 浮动购物车end */
+/* 商品底部栏start */
+.pro-column { clear:both;height:33px;line-height:33px;padding:5px 0px;background-color:#f7f7f7!important; border:1px solid #d2d2d2; }
+.pro-column a {text-align:center;font-size:0.85em;display:inline-block;width:49%;border-left:1px #C3C3C3 solid;color: #6c6c6c;}
+.pro-column a:nth-child(1) {border: none;}
+.pro-column span {padding-left: 25px;position:relative;}
+.pro-column span:before {content: "";width: 25px;height: 25px;position: absolute;margin-left: -28px;bottom:-3px;background-image: url(../img/shop_cart.png);background-size: 175px 30px;-webkit-background-size: 175px 30px;background-position: -2px -5px;}
+.pro-column a:nth-child(1) span:before {background-position:-63px -3px;}
+.pro-column-down span:before{background-image: url(../img/icon.png);background-position:-3px -2px!important;}
+/* 商品底部栏end */
+/* 客户端start */
+.customer_shop_cart:before{content: "";width:30px;height:30px;position: absolute;margin-left: -28px;bottom:5px;right:8px;background-image: url(../img/shop_cart.png);background-size: 175px 30px;-webkit-background-size: 175px 30px;background-position: -29px -1px;}
+/* 客户端end */
